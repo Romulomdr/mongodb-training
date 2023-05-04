@@ -1,22 +1,16 @@
 <h1 align="center">
-📄<br>Project Spring Boot
+📄<br>Project Spring Boot MongoDB
 </h1>
 
 ## 📚 Resumo
 
-> Sistema de compras onde possui, ordem do produto, produto, categoria, pagamento, status do pedido e usuário.
+> Sistema de Forúm onde possue usuario, post e comentario.
 
 ---
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](https://user-images.githubusercontent.com/106899605/231824065-f3e78a18-2ff2-4c53-8888-7338e0226739.png)
-
-
-## Relacionamento das Classes
-
-![Diagrama de Classes Relacionamentos](https://user-images.githubusercontent.com/106899605/231824197-eaf64c66-62f4-41b7-8300-d5747835fc67.png)
-
+![Diagrama de Classes](https://github.com/Romulomdr/mongodb-training/blob/main/image/Diagrama%20de%20Classes.png)
 
 <div align="center">
 
